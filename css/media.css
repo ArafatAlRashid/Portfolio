@@ -182,4 +182,8 @@ h5{
     margin-bottom: 60px;
 }
 }
-
+@media(max-width: 575px){
+	.banner-content h1 {
+	font-size: 20px;
+	}
+}
